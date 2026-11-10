@@ -12,6 +12,7 @@ for ch in dkia:
 
 for ch in  dkia:
     print(chr(ord(ch)))
+    
 
 
 
