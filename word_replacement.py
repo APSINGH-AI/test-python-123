@@ -17,24 +17,3 @@ for ch in  dkia:
 
 
 
-
-
-# --------------------------------------------
-# Project: Python Word Replacement Program
-# --------------------------------------------
-
-# Concepts Covered:
-# 1. input() - Taking input from the user.
-# 2. len() - Finding the length of a string.
-# 3. Escape Sequence (\') - Printing a single quotation mark.
-# 4. replace() - Replacing an existing word with another word.
-# 5. for loop - Iterating through each character of a string.
-# 6. ord() - Converting a character into its Unicode value.
-# 7. chr() - Converting a Unicode value back into a character.
-
-# Purpose:
-# This project was created to practise Python string operations,
-# loops, built-in functions, and character conversions.
-
-# Learning Status:
-# Beginner Python Practice Project.
